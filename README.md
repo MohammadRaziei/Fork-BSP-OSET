@@ -3,7 +3,7 @@
 ### INTRODUCTION
 
 OSET is a collection of electrophysiological data and open source codes for biological signal generation, modeling, processing, and filtering, originally released in June 2006. The toolbox is distributed under the GNU General Public License and may be freely used or modified under the specified terms of use. The source codes have been mainly developed in Matlab and partially in C++; but contributions in other languages are welcome. Please feel free to contact us in case of any comments or questions.
-Starting from Version 3.14 released on June 2018, OSET is accessible and will be updated on our public Git repository: https://gitlab.com/rsameni/OSET.git.
+Starting from Version 3.14 released on June 2018, OSET is accessible and will be updated on our public Git repository: https://gitlab.com/rsameni/OSET.git. 
 github version (forked): https://github.com/MohammadRaziei/Fork-BSP-OSET.git
 
 ---
